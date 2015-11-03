@@ -1,0 +1,44 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"ApacheConf.tmLanguage",
+		"Behat",
+		"Behat Snippets",
+		"Better CoffeeScript",
+		"Can I Use",
+		"Drupal",
+		"EasyDiff",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"GitSyntaxes",
+		"Gutter Color",
+		"INI",
+		"Jade",
+		"Jade Snippets",
+		"JavaScript & NodeJS Snippets",
+		"JSHint",
+		"LESS",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"PHP-Twig",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"Stylus",
+		"Stylus-Snippets",
+		"SVG-Snippets",
+		"SyncedSideBar",
+		"Theme - Soda SolarizedDark",
+		"Theme - Spacegray",
+		"TrailingSpaces"
+	]
+}
