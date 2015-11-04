@@ -1,33 +1,34 @@
 {
-	"always_show_minimap_viewport": true,
-	"bold_folder_labels": true,
-	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"draw_minimap_border": true,
-	"font_face": "Hack",
-	"font_size": 10,
-	"highlight_line": true,
-	"ignored_packages":
-	[
-		"Markdown",
-		"Vintage"
-	],
-	"indent_guide_options":
-	[
-		"draw_normal"
-	],
-	"rulers":
-	[
-		90
-	],
-	"save_on_focus_lost": false,
-	"show_encoding": true,
-	"spacegray_sidebar_font_large": true,
-	"spacegray_sidebar_tree_small": true,
-	"spacegray_tabs_auto_width": true,
-	"spacegray_tabs_font_normal": true,
-	"spacegray_tabs_large": true,
-	"tab_size": 2,
-	"theme": "Spacegray Eighties.sublime-theme",
-	"translate_tabs_to_spaces": true
+  "always_show_minimap_viewport": true,
+  "auto_complete_commit_on_tab": true,
+  "bold_folder_labels": true,
+  "caret_style": "phase",
+  "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+  "draw_minimap_border": true,
+  "font_face": "Hack",
+  "font_size": 10,
+  "highlight_line": true,
+  "indent_guide_options":
+    [
+      "draw_normal"
+    ],
+  "ignored_packages":
+    [
+      "Markdown",
+      "Vintage"
+    ],
+  "rulers":
+    [
+      90
+    ],
+  "save_on_focus_lost": false,
+  "show_encoding": true,
+  "show_line_endings": true,
+  "spacegray_sidebar_font_large": true,
+  "spacegray_sidebar_tree_small": true,
+  "spacegray_tabs_auto_width": true,
+  "spacegray_tabs_font_normal": true,
+  "spacegray_tabs_large": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true
 }
