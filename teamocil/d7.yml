@@ -1,0 +1,14 @@
+windows:
+  - name: sites-d7
+    root: ~/sites/dev_d7/
+    layout: even-horizontal
+    panes:
+      - commands:
+        - sd service apache2 stop
+        - sd chroot /var/chroot /precise-32/  /etc/init.d/apache2 restart
+        - cd sites/all/themes/mv_bootstrap
+        - gulp
+      - commands:
+        - git pull origin master
+        - git status
+        focus: true
