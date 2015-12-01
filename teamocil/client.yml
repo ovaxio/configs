@@ -1,0 +1,11 @@
+windows:
+  - name: espace-client
+    root: ~/sites/espaceclient/
+    layout: even-horizontal
+    panes:
+      - commands:
+        - grunt dev
+      - commands:
+        - sd chroot /var/chroot /precise-32/  /etc/init.d/apache2 stop
+        - sd service apache2 restart
+        focus: true
